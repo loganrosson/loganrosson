@@ -4,7 +4,8 @@
 
 **Portfolio:** [loganrosson.github.io](https://loganrosson.github.io) · [LinkedIn](https://www.linkedin.com/in/logan-rosson) · [loganrosson@gmail.com](mailto:loganrosson@gmail.com)
 
-- IT Support Specialist at BKP Dental, supporting 20+ staff and 40+ endpoints
+- IT Support Specialist at BKP Dental, supporting 20+ staff and 40+ endpoints (10+ tickets a week)
+- Peer Advisor at the David Eccles School of Business, where I set up automated Salesforce check-in alerts for advisors
 - Teaching Assistant for Principles of Finance (FINAN 3020)
 - Building an automated financial data pipeline in Python and R for my honors thesis
 
@@ -21,6 +22,6 @@
 
 ### Skills
 **Languages:** Python · SQL · R · HTML/CSS  
-**Data:** pandas · ETL pipelines · LLM APIs · Excel modeling  
+**Data:** pandas · ETL pipelines · LLM APIs · Excel modeling · Tableau  
 **Salesforce:** Administration · Flows · Agentforce · Experience Cloud · Reports & Dashboards  
 **IT:** Help desk · Hardware deployment · Server & endpoint support
