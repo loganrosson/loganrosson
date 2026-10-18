@@ -1,12 +1,13 @@
 # Hi, I'm Logan
 
-**Information Systems (Honors) student at the University of Utah** · IT support, Salesforce and data
+**Information Systems (Honors) student at the University of Utah, graduating May 2027.** My work lies at the intersection of business and technology: Salesforce, data and IT support.
 
 **Portfolio:** [loganrosson.github.io](https://loganrosson.github.io) · [LinkedIn](https://www.linkedin.com/in/logan-rosson) · [loganrosson@gmail.com](mailto:loganrosson@gmail.com)
 
 - IT Support Specialist at BKP Dental, supporting 20+ staff and 40+ endpoints (10+ tickets a week)
 - Peer Advisor at the David Eccles School of Business, where I set up automated Salesforce check-in alerts for advisors
-- Teaching Assistant for Principles of Finance (FINAN 3020)
+- Teaching Assistant for Principles of Finance (FINAN 3020), coaching 550+ students across three sections
+- Officer for the University of Utah Sales Club (Finance & Internal Management) and TEK Club (Graduate Student Liaison)
 - Building an automated financial data pipeline in Python and R for my honors thesis
 
 ### Featured projects
